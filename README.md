@@ -1,7 +1,7 @@
 # English
 
 ## PremiereProConverter
-A tool to convert Traditional Chinese subtitles to Simplified Chinese
+A tool to convert Traditional Chinese subtitles to Simplified Chinese.
 This tool was intended to help me translate my subtitles to Simplified Chinese
 
 ## Usage
@@ -16,7 +16,7 @@ The output files will be at `_output`
 # Chinese
 
 ## PremierePro 轉換器
-一個將繁體字幕轉成簡體的工具
+一個將繁體字幕轉成簡體的工具。
 這個工具原本是要幫我將我的字幕翻譯成簡體字
 
 ## 使用方法
